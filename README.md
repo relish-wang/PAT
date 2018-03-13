@@ -1,4 +1,7 @@
-# PAT
+# 本项目已停止维护。代码已迁移至[https://github.com/taryn2016/coding](https://github.com/taryn2016/coding)
+
+
+# ~~PAT~~
 > [Programming Ability Test](https://www.patest.cn/)
 
 ## Basic Level
@@ -17,7 +20,7 @@
 | 1011 | [A+B和C (15)][1011]                       | 
 | 1012 | [数字分类 (20)][1012]                      | 
                  
-注: 提交代码**不要包含中文**, 注释也不行!
+注: 提交Java代码**不要包含中文**, 注释也不行!
 
 [1001]: https://github.com/relish-wang/PAT/blob/master/hint/1001/README.md
 [1002]: https://github.com/relish-wang/PAT/blob/master/hint/1002/README.md
